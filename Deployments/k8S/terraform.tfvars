@@ -19,5 +19,5 @@ k8svm_size = "Standard_DS2_v2"
 k8sostype = "Linux"
 k8sos_disk_size_gb = 40
 k8smax_pods = 15
-client_id     = "b51d1773-103f-4174-9b43-688a5caa68f4"
-client_secret = "VR/W??TgQv?WP5gY8X9UfX6Faixod@II"
+client_id     = "b51d1773-103f-4174-688a5caa68f4"
+client_secret = "VR/W??TgQv?@II"
