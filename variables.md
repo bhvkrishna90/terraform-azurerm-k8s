@@ -6,4 +6,4 @@ This document gives an overview of variables used in the Azure platform of the T
 
 | Name | Description | Type | Default |
 |------|-------------|:----:|:-----:|
-| projCode | The Shortned version of ProjectCode which will be mapped to Resources to maintain Naming Convention<br><br>Note: This field MUST be in all lower-case and set manually prior to creating the cluster. | string | - |
+| projCode | The Shortend version of ProjectCode which will be mapped to Resources to maintain Naming Convention<br><br>Note: This field MUST be in all lower-case and set manually prior to creating the cluster. | string | - |
